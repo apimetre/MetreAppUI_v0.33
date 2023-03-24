@@ -10,7 +10,7 @@ import requests
 
 CONFIG_DICT = {'install_root_name': "MetreiOS",
                             'git_usr': "apimetre",
-                            'git_repo': "MetreAppUI_v0.32",
+                            'git_repo': "MetreAppUI_v0.33",
                             'git_branch': "main",
                             'start_file': "MetreUI.py",
                             'is_release': "False",
