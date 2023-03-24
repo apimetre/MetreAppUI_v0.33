@@ -1,4 +1,4 @@
-# Metre_AppUI_v0.32
+# Metre_AppUI_v0.33
 ** Whenever you do a new release, put latest version in updater.py AND the current version in MainMetre.py
 
 1) MainMetre.py is the installer/code launcher. **If the root directory (MetreiOS) already exists** on your device, it will look for metre_ios_install_config.json and launch the most current version of the app (from a subdirectory in MetreiOS) OR it will download the most current version of the app from GitHub, installed as a subdirectory in MetreiOS. If an older version of the app exists, the log files (for remembering the device, timezone, storage of previous data) will get copied over to the new app subdirectory. **If the MetreiOS subdirectory does not exist** it will download that root directory and make metre_ios_install_config.json (version # is hard-coded into a dictionary written in MainMetre.py). The script that "does stuff" and makes the UI is the script MetreUI.py
@@ -15,6 +15,6 @@
 
 5) If multiple files are present in temp_resources, multiple files will be uploaded.
 
-## Updates from v0.31:
+## Updates from v0.32:
 
-1) Added back in bokeh plotting with a change directory option in case directory is not correct
+1) Added back try except for ac_pred
