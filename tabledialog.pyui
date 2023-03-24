@@ -1,0 +1,120 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 17}, {288, 49}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "37A2E8F2-7DBD-46A0-AE3C-D9532B69CC58",
+          "font_size" : 17,
+          "corner_radius" : 0,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{60, 20}, {200, 200}}",
+          "tint_color" : "RGBA(0.653302,0.653302,0.653302,1.000000)",
+          "editable" : true,
+          "border_width" : 2,
+          "border_color" : "RGBA(0.549528,0.549528,0.549528,1.000000)",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text" : "",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "text_entry",
+          "flex" : "WHLRTB"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{193, 70}, {101, 16}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "frame" : "{{120, 104}, {80, 32}}",
+          "title" : "Update",
+          "uuid" : "A6B4A666-EE38-4FA4-88F8-112B7FDE4F46",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "update",
+          "font_size" : 12
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 93}, {288, 105}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "font_size" : 18,
+          "text_color" : "RGBA(1.000000,0.274510,0.274510,1.000000)",
+          "frame" : "{{75, 104}, {150, 32}}",
+          "uuid" : "7D75DD12-79DE-4ABC-B5CA-0A92A0A3587D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Notes",
+          "number_of_lines" : 0,
+          "name" : "test_notes",
+          "font_name" : "HelveticaNeue-Bold"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{7, 70}, {92, 16}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "frame" : "{{110, 104}, {80, 32}}",
+          "title" : "Replace",
+          "uuid" : "5A57F5EB-16D1-4D7A-B060-5583A64D88BC",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "replace",
+          "font_size" : 12
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 2}, {150, 15}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "name" : "label1",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{75, 104}, {150, 32}}",
+          "uuid" : "C0B44B49-8A71-42D5-AADA-BEDCC5AEC4BC",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter text below",
+          "font_size" : 10,
+          "font_name" : "HelveticaNeue-Italic"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {300, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(0.186321,0.186321,0.186321,1.000000)",
+      "tint_color" : "RGBA(1.000000,0.027778,0.027778,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

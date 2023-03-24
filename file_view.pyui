@@ -1,0 +1,55 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+          {
+            "nodes" : [
+
+            ],
+            "frame" : "{{22, 79}, {200, 140}}",
+            "class" : "TableView",
+            "attributes" : {
+              "flex" : "WH",
+              "data_source_items" : "Row 1\nRow 2\nRow 3\nRow 4\nRow 5\nRow 6\nRow 7",
+              "name" : "dt_table",
+              "frame" : "{{60, 142}, {200, 200}}",
+              "uuid" : "AAD483D3-1188-4943-BACE-C2CFEC15D12D",
+              "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+              "data_source_number_of_lines" : 1,
+              "class" : "TableView",
+              "data_source_delete_enabled" : false,
+              "row_height" : 20,
+              "data_source_font_size" : 18
+            },
+            "selected" : false
+          }
+        ],
+        "frame" : "{{0, 0}, {323, 479}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WH",
+          "alpha" : 0.59999999999999998,
+          "frame" : "{{70, 70}, {100, 100}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "View",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "uuid" : "1E3D6E03-B6EC-4D92-AFE3-15825BBDDF34",
+          "name" : "view1"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {323, 479}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(0.231132,0.231132,0.231132,1.000000)",
+      "tint_color" : "RGBA(0.964706,0.000000,0.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 0}, {228, 69}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 20,
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "CB7996F8-54A1-465D-8FD0-42D8B3494B0B",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Possible Ethanol Detection",
+          "name" : "label1",
+          "font_name" : "<System-Bold>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{18, 82}, {209, 106}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "87E247E1-D7B4-483C-B73B-F0F7FDBF5FDE",
+          "font_size" : 17,
+          "frame" : "{{20, 20}, {200, 200}}",
+          "editable" : false,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text" : "",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "et_txt",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{18, 195}, {80, 40}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 2,
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Yes",
+          "uuid" : "9EECB303-04AE-4575-870B-DF4ED09600ED",
+          "class" : "Button",
+          "corner_radius" : 10,
+          "name" : "yes",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{147, 196}, {80, 39}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 2,
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "No",
+          "uuid" : "9EECB303-04AE-4575-870B-DF4ED09600ED",
+          "class" : "Button",
+          "corner_radius" : 10,
+          "name" : "no",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {241, 241}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(1.000000,0.018868,0.018868,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
